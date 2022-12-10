@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lia</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miephd&label=Profile%20views&color=0e75b6&style=flat" alt="miephd" /> </p>
-
 - 🔭 I’m currently working on [Cuscon](https://github.com/MiepHD/cuscon)
 
 - 🌱 I’m currently learning **SQLite**
