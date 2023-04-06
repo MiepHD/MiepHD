@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cuscon](https://github.com/MiepHD/cuscon) and [EasyCandybar](https://github.com/MiepHD/easycandybar)
 
-- 🌱 I’m currently learning **SQLite**
+- 🌱 I’m currently learning **Java** & **Typescript**
 
 - 👯 I’m collaborating on [Youtube Music Desktop](https://github.com/th-ch/youtube-music)
 
@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://froxot.com/](https://froxot.com/)
 
-- 📫 How to reach me **miep_hd@froxot.com**
+- 📫 How to reach me **github@froxot.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
