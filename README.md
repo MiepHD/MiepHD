@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lia</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Cuscon](https://github.com/MiepHD/cuscon)
+- 🔭 I’m currently working on [Cuscon](https://github.com/MiepHD/cuscon) and [EasyCandybar](https://github.com/MiepHD/easycandybar)
 
 - 🌱 I’m currently learning **SQLite**
 
