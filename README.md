@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with [Cuscon](https://github.com/MiepHD/cuscon)
 
-- 📝 I write articles on [https://froxot.com/](https://froxot.com/)
-
 - 📫 How to reach me **github@froxot.de**
 
 <h3 align="left">Connect with me:</h3>
