@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cuscon](https://github.com/MiepHD/cuscon)
 
-- 🌱 I’m currently learning **Java** & **Typescript**
+- 🌱 I’m currently learning **Shell**
 
 - 👯 I’m collaborating on [Youtube Music Desktop](https://github.com/th-ch/youtube-music)
 
