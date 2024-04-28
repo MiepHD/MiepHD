@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👯 I’m collaborating on [Youtube Music Desktop](https://github.com/th-ch/youtube-music)
-
 - 🤝 I’m looking for help with [Cuscon](https://github.com/MiepHD/cuscon)
 
 - 📫 How to reach me **github@froxot.de**
