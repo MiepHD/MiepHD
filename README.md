@@ -19,7 +19,9 @@
 <a href="https://www.youtube.com/c/yazazuyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yazazuyo" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miephd&theme=dark" alt="miephd" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miephd&show_icons=true&theme=dracula&locale=en" alt="miephd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miephd&theme=dark" alt="miephd" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=miephd&show_icons=true&theme=dracula&locale=en" alt="miephd" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miephd&margin-w=15&margin-h=15&theme=dracula&title=Joined2020,Commits,Stars,PullRequest,Reviews,Experience,Repositories" alt="miephd" /></a> </p>
 
