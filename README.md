@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with [Cuscon](https://github.com/MiepHD/cuscon)
 
+- 🤝 I’m looking for help with translating [Your Game Cards](https://github.com/MiepHD/your-game-cards)
+
 - 📫 How to reach me **github@froxot.de**
 
 <h3 align="left">Languages and Tools:</h3>
